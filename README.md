@@ -1,7 +1,6 @@
-![Header](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-3195-9_3/MediaObjects/515045_1_En_3_Fig18_HTML.png)
 <h1 align="center">Hi 👋, I'm Mahmoud Aboalwafa</h1>
 <h3 align="center">A passionate Machine Learning Engineer | DL | CV | NLP | GEN_AI From Egypt</h3>
-<img align="right" alt="NN" width="400" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
+<img align="center" alt="NN" width="1000" height="350" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboalwafam59&label=Profile%20views&color=0e75b6&style=flat" alt="aboalwafam59" /> </p>
 
