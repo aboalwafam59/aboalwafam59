@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Aboalwafa</h1>
-<h3 align="center">A passionate Machine Learning Engineer | DL | CV | NLP | GEN_AI From Egypt</h3>
+<h3 align="center">Machine Learning Engineer | DL | CV | NLP | GEN_AI </h3>
 <img align="center" alt="NN" width="1000" height="350" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboalwafam59&label=Profile%20views&color=0e75b6&style=flat" alt="aboalwafam59" /> </p>
