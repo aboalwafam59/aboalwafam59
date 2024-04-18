@@ -1,4 +1,4 @@
-![Header](https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Typical-CNN-Architecture-1024x374.png)
+![Header](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-3195-9_3/MediaObjects/515045_1_En_3_Fig18_HTML.png)
 <h1 align="center">Hi 👋, I'm Mahmoud Aboalwafa</h1>
 <h3 align="center">A passionate Machine Learning Engineer | DL | CV | NLP | GEN_AI From Egypt</h3>
 <img align="right" alt="NN" width="400" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
