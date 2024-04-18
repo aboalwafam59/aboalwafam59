@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aboalwafam59@gmail.com**
 
-- 📄 Know about my experiences [Mahmoud_AboalwafaML_CV](https://drive.google.com/file/d/1KiDdQr2CwMNOWEDq8lvfIpi2KZ44MIkI/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KiDdQr2CwMNOWEDq8lvfIpi2KZ44MIkI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
