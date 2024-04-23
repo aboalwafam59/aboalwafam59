@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Aboalwafa</h1>
-<h3 align="center">Machine Learning Engineer | DL | CV | NLP | GEN_AI </h3>
+## Hi there! 👋🏻
+
+I'm Mahamoud Aboalwafa , a Machine Learning Engineer intern at [Ideas and Concepts](https://www.linkedin.com/in/ideas-and-concepts-92b98b304/). 
 <img align="center" alt="NN" width="1000" height="350" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboalwafam59&label=Profile%20views&color=0e75b6&style=flat" alt="aboalwafam59" /> </p>
+I'm passionate about building AI systems, with a focus on Machine Learning , DeepLearning . Interested in making AI automated systems that help organizations to scalable production systems.
+[![twitter badge](https://img.shields.io/badge/-@MahmoudAboalwa6-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MahmoudAboalwa6/)
+[![dev.to badge](https://img.shields.io/badge/-aboalwafa-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboalwafa-m59/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://leetcode.com/aboalwafam59)](https://leetcode.com/aboalwafam59)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboalwafam59@gmail.com)](mailto:contact@aboalwafa.me)
+![githubbadge](https://img.shields.io/github/followers/aboalwafam59?style=social)
+![](https://komarev.com/ghpvc/?username=aboalwafam59&color=brightgreen&style=flat)
 
-- 🌱 I’m currently learning **DeepLearning Computer Vision, NLP**
 
-- 💬 Ask me about **Tensorflow, Sklearn and Pytorch**
-
-- 📫 How to reach me **aboalwafam59@gmail.com**
-
+- 👨‍💻 All of my personal projects are available [here](https://github.com/aboalwafam59?tab=repositories)
+- 💬 Ask me about building Machine learning systems, AI  :laughing:
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KiDdQr2CwMNOWEDq8lvfIpi2KZ44MIkI/view?usp=drive_link)
+- 💜 Like Python, R Programming
+- 😄 Pronouns: ... He
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahmoudaboalwa6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudaboalwa6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aboalwafa-m59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboalwafa-m59" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17404967/mahmoud-aboalwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoud-aboalwafa" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahmoudaboalwafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahmoudaboalwafa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010177501374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud aboelwafa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/aboalwafam59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aboalwafam59" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aboalwafam59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aboalwafam59" height="30" width="40" /></a>
-<a href="https://discord.gg/mahmoudaboalwafa_14082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmoudaboalwafa_14082" height="30" width="40" /></a>
-</p>
+#### Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/-Python-fff?logo=python&logoColor=306998)
+![R Programming](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### Technologies
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-fff?style=flat&logo=opencv&logoColor=5C3EE8)](https://opencv.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-fff?style=flat&logo=numpy&logoColor=013243)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-fff?style=flat&logo=matplotlib&logoColor=FF7F0E)](https://matplotlib.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-fff?style=flat&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-fff?style=flat&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-fff?style=flat&logo=seaborn&logoColor=377ECA)](https://seaborn.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-fff?style=flat&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=github&logoColor=181717)](https://github.com/)
+[![Flask](https://img.shields.io/badge/-Flask-fff?style=flat&logo=flask&logoColor=000)](https://flask.palletsprojects.com/)
+[![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=example&logoColor=003B57)](https://example.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/-AWS-fff?style=flat&logo=amazon-aws&logoColor=232F3E)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-fff?style=flat&logo=microsoft-azure&logoColor=0078D4)](https://azure.microsoft.com/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboalwafam59&show_icons=true&locale=en&layout=compact" alt="aboalwafam59" /></p>
 
