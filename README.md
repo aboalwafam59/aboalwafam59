@@ -1,6 +1,6 @@
 ## Hi there! 👋🏻
 
-I'm Mahamoud Aboalwafa , a Machine Learning Engineer intern at [Ideas and Concepts](https://www.linkedin.com/in/ideas-and-concepts-92b98b304/). 
+I'm Mahamoud Aboalwafa , a Machine Learning Engineer intern at [CodeAlpha](https://www.codealpha.tech/). 
 <img align="center" alt="NN" width="1000" height="350" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 
 I'm passionate about building AI systems, with a focus on Machine Learning , DeepLearning . Interested in making AI automated systems that help organizations to scalable production systems.
