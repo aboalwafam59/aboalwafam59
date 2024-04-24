@@ -42,6 +42,7 @@ I'm passionate about building AI systems, with a focus on Machine Learning , Dee
 [![Flask](https://img.shields.io/badge/-Flask-fff?style=flat&logo=flask&logoColor=000)](https://flask.palletsprojects.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-fff?style=flat&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
 [![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/-AWS-fff?style=flat&logo=amazon-aws&logoColor=232F3E)](https://aws.amazon.com/)
