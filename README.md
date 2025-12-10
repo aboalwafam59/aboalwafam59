@@ -1,6 +1,6 @@
 ## Hi there! 👋🏻
 
-I'm Mahamoud Aboalwafa , a Machine Learning Engineer intern at [CodeAlpha](https://www.codealpha.tech/). 
+I'm Mahamoud Aboalwafa , a Machine Learning Engineer ). 
 <img align="center" alt="NN" width="1000" height="350" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 
 I'm passionate about building AI systems, with a focus on Machine Learning , DeepLearning . Interested in making AI automated systems that help organizations to scalable production systems.
@@ -14,7 +14,7 @@ I'm passionate about building AI systems, with a focus on Machine Learning , Dee
 
 - 👨‍💻 All of my personal projects are available [here](https://github.com/aboalwafam59?tab=repositories)
 - 💬 Ask me about building Machine learning systems, AI  :laughing:
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KiDdQr2CwMNOWEDq8lvfIpi2KZ44MIkI/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tCkU6nLTSrmXlz5vtcO-9oJmZyPD7e-n/view?usp=sharing)
 - 💜 Like Python, R Programming
 - 😄 Pronouns: ... He
 
